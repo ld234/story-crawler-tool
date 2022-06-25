@@ -18,7 +18,7 @@
     "cheerio": "^1.0.0-rc.3",
     "commander": "^4.1.0",
     "ebook-convert": "^2.0.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "readline-promise": "^1.0.4",
     "request": "^2.88.0",
     "request-promise": "^4.2.5",
